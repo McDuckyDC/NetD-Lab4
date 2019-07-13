@@ -1,0 +1,23 @@
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.vbprojResolveAssemblyReference.cache
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.Cache
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.vbprojAssemblyReference.cache
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.cache
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.CoreCompileInputs.cache
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.pdb

@@ -1,0 +1,12 @@
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CarList.vbprojAssemblyReference.cache
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CarList.vbproj.GenerateResource.cache
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CarList.vbproj.CoreCompileInputs.cache
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+C:\Users\shotg\Desktop\Assignments\NETLab4\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
